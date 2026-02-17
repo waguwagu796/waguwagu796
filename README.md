@@ -169,10 +169,9 @@ Spring MVC, Spring Boot, MyBatis, Oracle 환경에서의 웹 서비스 개발 �
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waguwagu796&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waguwagu796&theme=tokyonight"/>
 </p>
 
