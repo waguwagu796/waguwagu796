@@ -20,6 +20,7 @@ Spring MVC, Spring Boot, MyBatis, Oracle 환경에서의 웹 서비스 개발 �
 - FastAPI 연동 및 Spting Boot-React 기반 AI 웹서비스 구현
 - React, Javascript 기반 사용자 인터페이스 설계 및 상태 관리 경험
 - 랜덤 포레스트, CNN, OCR, RAG 등 AI 학습 모델 구축
+Streamlit, Gradio를 통한 프로토타입 구축
 - Git, Slack, Jira, Notion를 활용한 협업 프로젝트 관리
 <br clear="right"/>
 
@@ -199,9 +200,12 @@ Spring MVC, Spring Boot, MyBatis, Oracle 환경에서의 웹 서비스 개발 �
 
 
 <p align="center">
+  - Email
   <a href="mailto:bbosa1012@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <br/>
+  - PortFolio
   <a href="https://waguwagu796.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
